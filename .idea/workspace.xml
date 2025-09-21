@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e45b7ec-86d2-401c-ae51-79c0894b1812" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ProjectFD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT_PLAN" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Enterance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/SHOWALL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/backtomain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/best_checkpoint.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/canny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/clache.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/contact.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/frangi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/hairline3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/hairlineF.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/heatmap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/language_option.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/load-compact.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/load.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/qr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/refreash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/riskareaanalysis.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sobel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/stres.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/trash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hairline_gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/examples/example.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/examples/example2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/examples/hairline77.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/examples/hairline96.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/examples/hairline_Real.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/examples/sample (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/examples/sample (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/examples/sample (3).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/examples/sample (4).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/examples/sample.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/full_segmented_result.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/mask/AcetabulumL_8_mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/mask/AcetabulumR_12_mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/mask/FemurL_7_mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/mask/FemurR_14_mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/mask/GreaterTrochanterR_18_mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/mask/GreaterTrochanterR_3_mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/mask/IliumL_1_mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/mask/IliumR_17_mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/mask/IschiumL_13_mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/mask/IschiumR_4_mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/mask/LesserTrochanterL_9_mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/mask/LesserTrochanterR_10_mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/mask/PelvicBrim_2_mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/mask/PubisL_6_mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/mask/PubisR_11_mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/mask/Sacrum-Coccyx_5_mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/mask/TearDropL_15_mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/mask/TearDropR_16_mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/parts/AcetabulumL_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/parts/AcetabulumR_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/parts/FemurL_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/parts/FemurR_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/parts/GreaterTrochanterR_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/parts/GreaterTrochanterR_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/parts/IliumL_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/parts/IliumR_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/parts/IschiumL_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/parts/IschiumR_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/parts/LesserTrochanterL_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/parts/LesserTrochanterR_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/parts/PelvicBrim_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/parts/PubisL_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/parts/PubisR_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/parts/Sacrum-Coccyx_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/parts/TearDropL_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/segmentation/parts/TearDropR_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/femur_bone.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/fracture_detector.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hipbone_segmentation.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/easy_qt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/koordinat finder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training_codes/X-Net.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training_codes/YOLOv8.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/hairline_gui.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2zEQ11aOA8CkSqcvjfZze1DGgAy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.hairline_gui.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/asyao/PycharmProjects/ProjectFD/training_codes",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\asyao\PycharmProjects\ProjectFD\training_codes" />
+      <recent name="C:\Users\asyao\PycharmProjects\ProjectFD\images\segmentation" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\asyao\PycharmProjects\ProjectFD\models" />
+      <recent name="C:\Users\asyao\PycharmProjects\ProjectFD\tools" />
+      <recent name="C:\Users\asyao\PycharmProjects\ProjectFD\images\examples" />
+      <recent name="C:\Users\asyao\PycharmProjects\ProjectFD" />
+      <recent name="C:\Users\asyao\PycharmProjects\ProjectFD\assets" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e45b7ec-86d2-401c-ae51-79c0894b1812" name="Changes" comment="" />
+      <created>1751293534055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751293534055</updated>
+    </task>
+    <servers />
+  </component>
+</project>
