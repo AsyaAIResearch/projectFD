@@ -1,2 +1,0 @@
-# projectFD
-Fracture detection project
